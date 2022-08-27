@@ -11,5 +11,5 @@ This repository contains : </br>
 ![advance](https://user-images.githubusercontent.com/78317220/187050392-13622fe8-2d03-4617-a439-752ac0904136.png) </br>
 
 <marquee width="60%" direction="right" height="100px">
-Follow @mr_raazzput on  instagram and https://www.linkedin.com/in/sudoshivesh/ on linkedon for your queries.
+Follow @mr_raazzput on  instagram and https://www.linkedin.com/in/sudoshivesh/ on linkedin for your queries.
 </marquee>
