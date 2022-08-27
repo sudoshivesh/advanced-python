@@ -1,2 +1,1 @@
-# Advanced-Python
-This Repository will have the topic releted Program of Advance Python. The Program Will be based on OOP paradigm. It will have general example which will help to understand Advance Python more clearly. 
+<h1 align="center">BASIC AND ADVANCE PYTHON PRACTISE QUESTION</h1> 
